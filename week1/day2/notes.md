@@ -8,3 +8,4 @@
 ## Linear
 - [ ] Tìm hiểu cách đọc ticket
 - [ ] Tạo issue cho bài tập tuần 1
+## da hoan thanh bai tap ngay 2
