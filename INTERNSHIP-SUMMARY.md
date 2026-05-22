@@ -26,7 +26,7 @@ Chương trình học việc React Web Developer 2026
 - **Chú ý không đều:** Hay bỏ sót chi tiết nhỏ — text thiếu dấu tiếng Việt, button thừa trong dialog, hook có sẵn nhưng chưa wire up UI. Kế hoạch: trước khi nộp bài, chạy lại checklist từ đầu thay vì chỉ nhìn vào phần vừa làm.
 - **Dùng `eslint-disable` như một lối tắt:** 
 - **Conventional commits chưa thành thói quen ngay từ đầu:** Chu trình làm việc với github cần cải thiện.
-- **Cần bổ sung thêm nhiều kiến thức lập trình hơn:** Hiểu hơn về nhiều lý thuyết, từ ngữ chuyên ngành.
+- **Cần bổ sung thêm nhiều kiến thức lập trình hơn:** Hiểu hơn về nhiều lý thuyết, thuật ngữ chuyên ngành. (React Context, race condition,...)
 ## Công cụ và quy trình làm việc em đã quen
  
 Linear (quản lý task, Sprint), GitHub (PR workflow, conventional commits, interactive rebase), Claude (hỏi concept và debug), Vitest + React Testing Library, React DevTools Profiler, PR description theo template What / Why / How to test.
@@ -36,4 +36,5 @@ Linear (quản lý task, Sprint), GitHub (PR workflow, conventional commits, int
 - Hiểu codebase Babrik thực tế: data flow, cách module Wireframe render canvas, state management đang dùng
 - Học cách đọc và review code người khác — em chưa có kinh nghiệm comment PR có giá trị
 - Xử lý real-time hoặc collaborative editing nếu Babrik có WebSocket/CRDT
-- Hiểu quy trình deploy và CI/CD của team 
+- Hiểu quy trình deploy và CI/CD của team
+- Học thêm được nhiều thuật ngữ và kiến thức nâng cao hơn
